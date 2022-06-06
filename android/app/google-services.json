@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205115682709",
+    "project_id": "firebase-rn-krutik302",
+    "storage_bucket": "firebase-rn-krutik302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205115682709:android:1be6611f3659e7aadad09c",
+        "android_client_info": {
+          "package_name": "com.example.push_notification_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205115682709-gkd3831niueak5b21fidm4hcfgtlb69j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkNBeREwkxawJgIWJsndyaQlO2qS_ZqXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205115682709-gkd3831niueak5b21fidm4hcfgtlb69j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
